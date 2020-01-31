@@ -1,5 +1,5 @@
 {
-  "name": "noble-device",
+  "name": "@instathings/noble-device",
   "version": "1.4.1",
   "description": "A Node.js lib to abstract BLE (Bluetooth Low Energy) peripherals, uses noble",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandeepmistry/noble-device.git"
+    "url": "git+https://github.com/sandeepmistry/noble-device.git"
   },
   "keywords": [
     "noble",
@@ -32,5 +32,10 @@
   },
   "dependencies": {
     "@abandonware/noble": "^1.9.2-5"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
   }
 }
