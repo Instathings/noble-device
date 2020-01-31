@@ -1,6 +1,6 @@
 {
   "name": "@instathings/noble-device",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "A Node.js lib to abstract BLE (Bluetooth Low Energy) peripherals, uses noble",
   "main": "index.js",
   "scripts": {
