@@ -1,5 +1,5 @@
 ## Unreleased
-* Added Github actions 
+* Added Github actions  
 
 ## Version 1.4.2
 * Changed `noble` dependency with `@abandonware/noble`
