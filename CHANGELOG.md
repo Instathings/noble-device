@@ -1,3 +1,9 @@
+## Unreleased
+* Added Github actions 
+
+## Version 1.4.2
+* Changed `noble` dependency with `@abandonware/noble`
+
 ## Version 1.4.1
 
  * Fixed event listener leak when discover all called multiple times ([@danielbh](https://github.com/danielbh))
